@@ -1,8 +1,11 @@
-## [In Git](https://github.com/cucumber/cucumber/compare/v2.0.0.rc.5...master)
+## [In Git](https://github.com/cucumber/cucumber/compare/v2.0.0...master)
+
+## [v2.0.0](https://github.com/cucumber/cucumber/compare/v2.0.0.rc.5...v2.0.0)
 
 ### New Features
 
 * Support ruby 2.2 in master (@mattwynne, @tooky)
+* Tell users to use the `--init` command ([818](https://github.com/cucumber/cucumber/pull/818) @olleolleolle)
 
 ### Bugfixes
 
